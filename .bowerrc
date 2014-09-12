@@ -1,0 +1,4 @@
+# Load Bootstrap via Bower
+{
+  "directory": "assets/vendor"
+}
