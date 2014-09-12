@@ -1,0 +1,17 @@
+/*
+Theme Name:         StacheStack
+Theme URI:          https://github.com/BeardandFedora/StacheStack
+Description:        Put some Stache in your Bootstrap Wordpress Stack.
+Version:            3.2.6
+Author:             @thinq4yourself, @tylergoelz, @aristath, @fovoc, @dovyp, @lean_labs
+Author URI:         http://beardandfedora.com
+License:            GPL v2 License
+License URI:        http://www.gnu.org/licenses/gpl.html
+Tags:               dark, light, one-column, two-columns, left-sidebar, right-sidebar, fluid-layout, custom-background, custom-colors, custom-header, custom-menu, editor-style, microformats, rtl-language-support, holiday, seasonal
+*/
+
+.wp-caption {}
+.wp-caption-text {}
+.sticky {}
+.gallery-caption {}
+.bypostauthor {}
