@@ -47,14 +47,4 @@ Everyone is welcome to help [contribute](CONTRIBUTING.md) and improve this proje
 * Source: [https://github.com/BeardandFedora/StacheStack](https://github.com/BeardandFedora/StacheStack)
 * Homepage: [http://beardandfedora.com](beardandfedora.com)
 * Documentation: [https://github.com/BeardandFedora/StacheStack/docs](https://github.com/BeardandFedora/StacheStack/docs)
-* Twitter: [@BeardAndFedora](https://twitter.com/BeardAndFedora), [@thinq4yourself](https://twitter.com/thinq4yourself), [@tylergoelz](https://twitter.com/tylergoelz), [@lean_labs](https://twitter.com/lean_labs)
-
-## StacheStack is proudly built on:
-
-* Roots - https://github.com/roots/roots
-* BedRock - https://github.com/roots/bedrock
-* Kirki - https://github.com/wpmu/kirki
-* Redux - https://github.com/ReduxFramework/redux-framework
-* Visual Composer - http://vc.wpbakery.com
-* Bootstrap - http://getbootstrap.com
-* Wordpress Customizer - http://en.support.wordpress.com/customizer/
+* Twitter: [@BeardAndFedora](https://twitter.com/BeardAndFedora), [@thinq4yourself](https://twitter.com/thinq4yourself), [@tylergoelz](https://twitter.com/tylergoelz)
