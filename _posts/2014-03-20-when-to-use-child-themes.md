@@ -10,7 +10,7 @@ StacheStack is pretty extendable and in most cases a child theme is **not** need
 Most people create child themes in order to add their own styles or scripts.
 
 On the StacheStack theme however, you can write your custom CSS, LESS and JS right from the admin panel and they will be included in your theme without needing a child theme, as swown in the below screenshot of the options:
-![Redux Admin StacheStack Options]({{ site.url }}/images/admin-custom-css-less-js.png)
+![Redux Admin StacheStack Options](/StacheStack{{ site.url }}/images/admin-custom-css-less-js.png)
 
 * If you write your custom styles in the **Custom CSS** field, the theme will output your styles on the `<head>` of the page.
 * If you write your custom styles in the **Custom LESS** field, your styles will be automatically compiled and included in the main stylesheet. This way you avoid loading an extra file.
