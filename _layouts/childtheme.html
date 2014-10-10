@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="title-wrapper">
+	<div class="row">
+		<div class="header">
+			<h1>{{ page.title }}</h1>
+		</div>
+	</div>
+</div>
+
+<div class="row post" id="main-content">
+	<div class="medium-9 columns right">
+		{{ content }}
+	</div>
+	<div class="medium-3 columns">
+		<ul class="side-nav">
+
+			<li><label>Child Themes</label></li>
+			{% for post in site.categories.child-themes. %}
+				<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endfor %}
+
+		</ul>
+	</div>
+</div>
