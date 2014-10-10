@@ -45,6 +45,6 @@ Everyone is welcome to help [contribute](CONTRIBUTING.md) and improve this proje
 ## Support
 
 * Source: [https://github.com/BeardandFedora/StacheStack](https://github.com/BeardandFedora/StacheStack)
+* Documentation: [https://beardandfedora.github.io/StacheStack/](https://beardandfedora.github.io/StacheStack/)
 * Homepage: [http://beardandfedora.com](beardandfedora.com)
-* Documentation: [https://github.com/BeardandFedora/StacheStack/docs](https://github.com/BeardandFedora/StacheStack/docs)
 * Twitter: [@BeardAndFedora](https://twitter.com/BeardAndFedora), [@thinq4yourself](https://twitter.com/thinq4yourself), [@tylergoelz](https://twitter.com/tylergoelz)
