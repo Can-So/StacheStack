@@ -184,37 +184,3 @@ title: StacheStack Documentation
 </div>
 
 <hr>
-
-<div class="row deprecated">
-
-	<div data-alert class="alert-box alert">
-	<p>The below section contains functions & actions that are no longer included in the theme and have been deprecated. If you are have built extensions, plugins or child themes based on the StacheStack theme and your theme has been using these, you should <strong>switch to the new actions, filters and methods as described inside each deprecated item.</strong></p>
-	</div>
-
-	<div class="medium-4 columns">
-		<ul class="side-nav">
-
-			<li><label>Deprecated Functions</label></li>
-			{% for post in site.categories.functions-deprecated. %}
-				<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-			{% endfor %}
-
-		</ul>
-	</div>
-
-	<div class="medium-4 columns">
-		<ul class="side-nav">
-
-			<li><label>Deprecated Actions</label></li>
-			{% for post in site.categories.actions-deprecated. %}
-				<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-			{% endfor %}
-
-		</ul>
-	</div>
-
-	<div class="medium-4 columns">
-		
-	</div>
-
-</div>
