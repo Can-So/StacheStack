@@ -15,7 +15,7 @@ You can find a list of the available classes below:
 
 	<li><label class="button small primary disabled">Classes:</label></li>
 	{% for post in site.categories.classes. %}
-		<li><a class="button small secondary" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+		<li><a class="button small secondary" href="/StacheStack{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 
 </ul>

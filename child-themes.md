@@ -17,7 +17,7 @@ We also have some premium Child themes available:
 
 	<li><label>Articles and resources about Child-Themes:</label></li>
 	{% for post in site.categories.child-themes. %}
-		<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+		<li><a href="/StacheStack{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 
 </ul>

@@ -18,7 +18,7 @@ You can find a list of the available actions below:
 
 	<li><label class="button small primary disabled">Actions:</label></li>
 	{% for post in site.categories.actions. %}
-		<li><a class="button small secondary" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+		<li><a class="button small secondary" href="/StacheStack{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 
 </ul>
@@ -31,7 +31,7 @@ If you have been using an older version of the theme and have developed your own
 
 	<li><label class="button tiny alert disabled">Deprecated Actions:</label></li>
 	{% for post in site.categories.actions-deprecated. %}
-		<li><a class="button tiny secondary" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+		<li><a class="button tiny secondary" href="/StacheStack{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 
 </ul>

@@ -18,7 +18,7 @@ You can find a list of the available filters below:
 
 	<li><label class="button small primary disabled">Filters:</label></li>
 	{% for post in site.categories.filters. %}
-		<li><a class="button small secondary" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+		<li><a class="button small secondary" href="/StacheStack{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 
 </ul>
