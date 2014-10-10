@@ -2,4 +2,4 @@ name: StacheStack Documentation
 markdown: redcarpet
 pygments: true
 permalink: pretty
-baseurl: /StacheStack
+baseurl: "/StacheStack"
