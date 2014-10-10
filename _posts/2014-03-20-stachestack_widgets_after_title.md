@@ -36,9 +36,9 @@ add_filter( 'stachestack_widgets_after_title', 'custom_change_widgets_after_titl
 ```
 
 <div data-alert class="alert-box alert">
-<p>Warning: If you change the default value, please make sure you change the <a class="alert-link" href="/filters/stachestack_widgets_before_title">stachestack_widgets_before_title</a> accordingly.</p>
+<p>Warning: If you change the default value, please make sure you change the <a class="alert-link" href="/StacheStack/filters/stachestack_widgets_before_title">stachestack_widgets_before_title</a> accordingly.</p>
 </div>
 
 <hr>
 * Location: [lib/widgets.php](https://github.com/StacheStack/StacheStack/blob/development/lib/widgets.php)
-* Related: [stachestack\_widgets\_class](/filters/stachestack_widgets_class), [stachestack\_widgets\_before\_title](/filters/stachestack_widgets_before_title)
+* Related: [stachestack\_widgets\_class](/StacheStack/filters/stachestack_widgets_class), [stachestack\_widgets\_before\_title](/StacheStack/filters/stachestack_widgets_before_title)

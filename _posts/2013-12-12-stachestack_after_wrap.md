@@ -9,4 +9,4 @@ The `stachestack_after_wrap` action has been deprecated since StacheStack 3.2
 
 Please consider using the `stachestack_pre_footer` action instead.
 
-<a class="button" href="/actions/stachestack_pre_footer">`stachestack_pre_footer` action</a>
+<a class="button" href="/StacheStack/actions/stachestack_pre_footer">`stachestack_pre_footer` action</a>

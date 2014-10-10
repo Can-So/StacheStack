@@ -9,4 +9,4 @@ The `stachestack_header_media` action has been deprecated since StacheStack 3.2
 
 Please consider using the `stachestack_pre_wrap` action instead.
 
-<a class="button" href="/actions/stachestack_pre_wrap">`stachestack_pre_wrap` action</a>
+<a class="button" href="/StacheStack/actions/stachestack_pre_wrap">`stachestack_pre_wrap` action</a>

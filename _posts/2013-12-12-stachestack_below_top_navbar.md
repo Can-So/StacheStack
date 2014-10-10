@@ -9,4 +9,4 @@ The `stachestack_below_top_navbar` action has been deprecated since StacheStack 
 
 Please consider using the `stachestack_pre_wrap` action instead.
 
-<a class="button secondary" href="/actions/stachestack_pre_wrap">`stachestack_pre_wrap` action</a>
+<a class="button secondary" href="/StacheStack/actions/stachestack_pre_wrap">`stachestack_pre_wrap` action</a>

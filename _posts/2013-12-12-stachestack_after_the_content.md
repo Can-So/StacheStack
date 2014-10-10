@@ -9,4 +9,4 @@ The `stachestack_after_the_content` action has been deprecated since StacheStack
 
 Please consider using the `stachestack_in_loop_end` action instead.
 
-<a class="button" href="/actions/stachestack_in_loop_end">`stachestack_in_loop_end` action</a>
+<a class="button" href="/StacheStack/actions/stachestack_in_loop_end">`stachestack_in_loop_end` action</a>

@@ -36,7 +36,7 @@ add_filter( 'stachestack_widgets_before_title', 'custom_change_widgets_before_ti
 ```
 
 <div data-alert class="alert-box alert">
-<p>Warning: If you change the default value, please make sure you change the <a class="alert-link" href="/filters/stachestack_widgets_before_title">stachestack_widgets_before_title</a> accordingly.</p>
+<p>Warning: If you change the default value, please make sure you change the <a class="alert-link" href="/StacheStack/filters/stachestack_widgets_before_title">stachestack_widgets_before_title</a> accordingly.</p>
 </div>
 
 <hr>

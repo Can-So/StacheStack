@@ -9,4 +9,4 @@ The `stachestack_footer_pre_override` action has been deprecated since StacheSta
 
 Please consider using one of the newer actions.
 
-<a class="button" href="/actions">See all available actions</a>
+<a class="button" href="/StacheStack/actions">See all available actions</a>

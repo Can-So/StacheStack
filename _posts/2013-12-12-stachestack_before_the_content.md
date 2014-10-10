@@ -9,4 +9,4 @@ The `stachestack_before_the_content` action has been deprecated since StacheStac
 
 Please consider using the `stachestack_in_loop_start` action instead.
 
-<a class="button" href="/actions/stachestack_in_loop_start">`stachestack_in_loop_start` action</a>
+<a class="button" href="/StacheStack/actions/stachestack_in_loop_start">`stachestack_in_loop_start` action</a>
