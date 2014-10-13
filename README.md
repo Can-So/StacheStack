@@ -24,3 +24,5 @@
 
 + Navigate to http://box-url.codio.io:4000/StacheStack/ Note: Replace "box-url" with your Codio's "Box URL."
 
+#Contribute to StacheStack Docs#
+We use [Jekyll](http://jekyllrb.com/) to create this documentation site, so all you have to do in order to contribute to these docs is edit the file that interests you (or add a new file) on the _posts folder and submit a pull request to our github repository. Please note the the files should be formatted using github markdown syntax for better consistency.
